@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranavajk1
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Artificial Intelligence, ML, Computer Vision
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence focusing on Computer Vision using Deep Learning
+- Studying AI at Uinversity at Buffalo, Actively Looking for internships
 - 📫 pranavaj@buffalo.edu
 
 <!---
