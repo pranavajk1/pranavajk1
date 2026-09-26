@@ -21,7 +21,7 @@ questions.
 Off the clock I run a two-node k3s cluster hosting my own vLLM
 inference stack, along with the usual pile of self-hosted services.
 
-**Portfolio:** pranavajk.com · **LinkedIn:** [pranava-j-k](https://linkedin.com/in/pranava-j-k)
+**Portfolio:** [pranavajk.com](https://pranavajk.com) · **LinkedIn:** [pranava-j-k](https://linkedin.com/in/pranava-j-k)
 
 ### Working with
 
